@@ -13,8 +13,6 @@ Methods implemented:
 4. Spatial Lyapunov exponents (for PDEs)
 5. Finite-Time Lyapunov Exponents (FTLE) for flow fields
 
-Author: Claude (Anthropic)
-Date: 2024
 """
 
 import numpy as np
