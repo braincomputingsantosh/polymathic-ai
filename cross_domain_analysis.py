@@ -9,7 +9,6 @@ computational neuroscience models.
 The key insight: Both systems exhibit similar mathematical structure
 in their chaos signatures, enabling potential transfer learning.
 
-Author: Claude (Anthropic)
 """
 
 import numpy as np
